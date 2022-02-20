@@ -1,0 +1,32 @@
+### Search
+
+GET http://valetudo.local:5000/api/group/search?name=alestorm HTTP/1.1
+
+### Add Mojiganga
+
+PUT http://valetudo.local:5000/api/group/ HTTP/1.1
+content-type: application/json
+
+{
+    "id": "feb5ba97-6862-4864-a44b-321ab06d41b2"
+}
+
+### Add Alestorm
+
+PUT http://valetudo.local:5000/api/group/ HTTP/1.1
+content-type: application/json
+
+{
+    "id": "c0252a1b-0133-46bb-8c4f-cade46349ec3"
+}
+
+### Add None
+
+PUT http://valetudo.local:5000/api/group/ HTTP/1.1
+content-type: application/json
+
+{}
+
+### Test
+
+GET http://valetudo.local:5000/test HTTP/1.1
