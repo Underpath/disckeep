@@ -1,0 +1,1049 @@
+{
+    "search_results": {
+        "artist-list": [
+            {
+                "id": "c0252a1b-0133-46bb-8c4f-cade46349ec3",
+                "type": "Group",
+                "ext:score": "100",
+                "name": "Alestorm",
+                "sort-name": "Alestorm",
+                "country": "GB",
+                "area": {
+                    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                    "type": "Country",
+                    "name": "United Kingdom",
+                    "sort-name": "United Kingdom",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "begin-area": {
+                    "id": "5d5adcf9-6f4d-47b9-9a61-4ccbf919b3b1",
+                    "type": "City",
+                    "name": "Perth",
+                    "sort-name": "Perth",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "disambiguation": "Scottish folk/power metal band",
+                "isni-list": [
+                    "0000000095235507"
+                ],
+                "life-span": {
+                    "begin": "2007",
+                    "ended": "false"
+                },
+                "tag-list": [
+                    {
+                        "count": "2",
+                        "name": "metal"
+                    },
+                    {
+                        "count": "4",
+                        "name": "power metal"
+                    },
+                    {
+                        "count": "6",
+                        "name": "folk metal"
+                    },
+                    {
+                        "count": "4",
+                        "name": "pirate metal"
+                    },
+                    {
+                        "count": "0",
+                        "name": "folk/power-metal"
+                    }
+                ]
+            },
+            {
+                "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                "type": "Group",
+                "ext:score": "68",
+                "name": "The Beatles",
+                "sort-name": "Beatles, The",
+                "area": {
+                    "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+                    "type": "Subdivision",
+                    "name": "England",
+                    "sort-name": "England",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "begin-area": {
+                    "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+                    "type": "City",
+                    "name": "Liverpool",
+                    "sort-name": "Liverpool",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "isni-list": [
+                    "0000000121707484"
+                ],
+                "life-span": {
+                    "begin": "1957-03",
+                    "end": "1970-04-10",
+                    "ended": "true"
+                },
+                "alias-list": [
+                    {
+                        "locale": "uk",
+                        "sort-name": "\u0411\u0456\u0442\u043b\u0437",
+                        "alias": "\u0411\u0456\u0442\u043b\u0437"
+                    },
+                    {
+                        "locale": "zh_Hant",
+                        "sort-name": "\u62ab\u982d\u56db\u6a02\u968a",
+                        "alias": "\u62ab\u982d\u56db\u6a02\u968a"
+                    },
+                    {
+                        "locale": "zh_Hant",
+                        "sort-name": "\u62ab\u982d\u56db\u6a02\u5718",
+                        "alias": "\u62ab\u982d\u56db\u6a02\u5718"
+                    },
+                    {
+                        "locale": "zh_Hans",
+                        "sort-name": "\u62ab\u5934\u58eb\u4e50\u961f",
+                        "alias": "\u62ab\u5934\u58eb\u4e50\u961f"
+                    },
+                    {
+                        "locale": "zh_Hans",
+                        "sort-name": "\u62ab\u5934\u58eb",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "\u62ab\u5934\u58eb"
+                    },
+                    {
+                        "locale": "zh_Hant",
+                        "sort-name": "\u62ab\u982d\u56db",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "\u62ab\u982d\u56db"
+                    },
+                    {
+                        "locale": "en",
+                        "sort-name": "Silver Beatles, The",
+                        "type": "Artist name",
+                        "alias": "The Silver Beatles"
+                    },
+                    {
+                        "locale": "it",
+                        "sort-name": "Beatles, I",
+                        "type": "Artist name",
+                        "alias": "I Beatles"
+                    },
+                    {
+                        "locale": "de",
+                        "sort-name": "Beatles, Die",
+                        "type": "Artist name",
+                        "alias": "Die Beatles"
+                    },
+                    {
+                        "locale": "ka",
+                        "sort-name": "\u10d1\u10d8\u10d7\u10da\u10d6\u10d8",
+                        "type": "Artist name",
+                        "alias": "\u10d1\u10d8\u10d7\u10da\u10d6\u10d8"
+                    },
+                    {
+                        "locale": "ur",
+                        "sort-name": "\u0628\u06cc\u0679\u0644\u0632",
+                        "type": "Artist name",
+                        "alias": "\u0628\u06cc\u0679\u0644\u0632"
+                    },
+                    {
+                        "locale": "th",
+                        "sort-name": "\u0e40\u0e14\u0e2d\u0e30\u0e1a\u0e35\u0e40\u0e17\u0e34\u0e25\u0e2a\u0e4c",
+                        "type": "Artist name",
+                        "alias": "\u0e40\u0e14\u0e2d\u0e30\u0e1a\u0e35\u0e40\u0e17\u0e34\u0e25\u0e2a\u0e4c"
+                    },
+                    {
+                        "locale": "te",
+                        "sort-name": "\u0c26 \u0c2c\u0c40\u0c1f\u0c3f\u0c32\u0c4d\u0c38\u0c4d",
+                        "type": "Artist name",
+                        "alias": "\u0c26 \u0c2c\u0c40\u0c1f\u0c3f\u0c32\u0c4d\u0c38\u0c4d"
+                    },
+                    {
+                        "locale": "ta",
+                        "sort-name": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd",
+                        "type": "Artist name",
+                        "alias": "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd"
+                    },
+                    {
+                        "locale": "pa",
+                        "sort-name": "\u0a26 \u0a2c\u0a40\u0a1f\u0a32\u0a1c\u0a3c",
+                        "type": "Artist name",
+                        "alias": "\u0a26 \u0a2c\u0a40\u0a1f\u0a32\u0a1c\u0a3c"
+                    },
+                    {
+                        "locale": "mk",
+                        "sort-name": "\u0411\u0438\u0442\u043b\u0441\u0438",
+                        "type": "Artist name",
+                        "alias": "\u0411\u0438\u0442\u043b\u0441\u0438"
+                    },
+                    {
+                        "locale": "ml",
+                        "sort-name": "\u0d26\u0d3f \u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d",
+                        "type": "Artist name",
+                        "alias": "\u0d26\u0d3f \u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d"
+                    },
+                    {
+                        "locale": "kn",
+                        "sort-name": "\u0ca6\u0cbf \u0cac\u0cc0\u0c9f\u0cb2\u0ccd\u0cb8\u0ccd",
+                        "type": "Artist name",
+                        "alias": "\u0ca6\u0cbf \u0cac\u0cc0\u0c9f\u0cb2\u0ccd\u0cb8\u0ccd"
+                    },
+                    {
+                        "locale": "is",
+                        "sort-name": "B\u00edtlarnir",
+                        "type": "Artist name",
+                        "alias": "B\u00edtlarnir"
+                    },
+                    {
+                        "locale": "hi",
+                        "sort-name": "\u0926 \u092c\u0940\u091f\u0932\u094d\u0938",
+                        "type": "Artist name",
+                        "alias": "\u0926 \u092c\u0940\u091f\u0932\u094d\u0938"
+                    },
+                    {
+                        "locale": "ko",
+                        "sort-name": "\ub354 \ube44\ud2c0\uc988",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "\ub354 \ube44\ud2c0\uc988"
+                    },
+                    {
+                        "locale": "he",
+                        "sort-name": "\u05d4\u05d1\u05d9\u05d8\u05dc\u05e1",
+                        "type": "Artist name",
+                        "alias": "\u05d4\u05d1\u05d9\u05d8\u05dc\u05e1"
+                    },
+                    {
+                        "locale": "gu",
+                        "sort-name": "\u0aa7 \u0aac\u0abf\u0a9f\u0ab2\u0acd\u0ab8",
+                        "type": "Artist name",
+                        "alias": "\u0aa7 \u0aac\u0abf\u0a9f\u0ab2\u0acd\u0ab8"
+                    },
+                    {
+                        "locale": "fa",
+                        "sort-name": "\u0628\u06cc\u062a\u0644\u0632",
+                        "type": "Artist name",
+                        "alias": "\u0628\u06cc\u062a\u0644\u0632"
+                    },
+                    {
+                        "locale": "bn",
+                        "sort-name": "\u09a6\u09cd\u09af \u09ac\u09bf\u099f\u09b2\u09cd\u200c\u09b8",
+                        "type": "Artist name",
+                        "alias": "\u09a6\u09cd\u09af \u09ac\u09bf\u099f\u09b2\u09cd\u200c\u09b8"
+                    },
+                    {
+                        "locale": "ar",
+                        "sort-name": "\u0627\u0644\u0628\u064a\u062a\u0644\u0632",
+                        "type": "Artist name",
+                        "alias": "\u0627\u0644\u0628\u064a\u062a\u0644\u0632"
+                    },
+                    {
+                        "locale": "es",
+                        "sort-name": "Beatles, Los",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "Los Beatles"
+                    },
+                    {
+                        "locale": "am",
+                        "sort-name": "\u12d8 \u1262\u1270\u120d\u1235",
+                        "type": "Artist name",
+                        "alias": "\u12d8 \u1262\u1270\u120d\u1235"
+                    },
+                    {
+                        "locale": "ja",
+                        "sort-name": "\u30d3\u30fc\u30c8\u30eb\u30ba\uff08\u30b6\uff09",
+                        "type": "Artist name",
+                        "alias": "\u30b6\u30fb\u30d3\u30fc\u30c8\u30eb\u30ba"
+                    },
+                    {
+                        "locale": "fr",
+                        "sort-name": "Beatles, Les",
+                        "type": "Artist name",
+                        "alias": "Les Beatles"
+                    },
+                    {
+                        "sort-name": "B",
+                        "type": "Search hint",
+                        "alias": "B"
+                    },
+                    {
+                        "locale": "ru",
+                        "sort-name": "\u0411\u0438\u0442\u043b\u0437",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "\u0411\u0438\u0442\u043b\u0437"
+                    },
+                    {
+                        "sort-name": "fab four",
+                        "type": "Search hint",
+                        "alias": "fab four"
+                    },
+                    {
+                        "locale": "en",
+                        "sort-name": "Beatles, The",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "The Beatles"
+                    },
+                    {
+                        "sort-name": "Beetles",
+                        "type": "Search hint",
+                        "alias": "Beetles"
+                    },
+                    {
+                        "sort-name": "Be",
+                        "type": "Search hint",
+                        "alias": "Be"
+                    },
+                    {
+                        "sort-name": "Beat",
+                        "type": "Search hint",
+                        "alias": "Beat"
+                    },
+                    {
+                        "locale": "en",
+                        "sort-name": "Beatles",
+                        "type": "Artist name",
+                        "alias": "Beatles"
+                    },
+                    {
+                        "sort-name": "Savage Young Beatles, The",
+                        "alias": "The Savage Young Beatles"
+                    }
+                ],
+                "tag-list": [
+                    {
+                        "count": "23",
+                        "name": "rock"
+                    },
+                    {
+                        "count": "10",
+                        "name": "pop"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "progressive rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "80s"
+                    },
+                    {
+                        "count": "-2",
+                        "name": "heavy metal"
+                    },
+                    {
+                        "count": "-2",
+                        "name": "pop-rock"
+                    },
+                    {
+                        "count": "-2",
+                        "name": "orchestral"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "experimental"
+                    },
+                    {
+                        "count": "13",
+                        "name": "british"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "uk"
+                    },
+                    {
+                        "count": "0",
+                        "name": "60s"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "hard rock"
+                    },
+                    {
+                        "count": "-2",
+                        "name": "indie rock"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "folk rock"
+                    },
+                    {
+                        "count": "3",
+                        "name": "psychedelic rock"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "psychedelic"
+                    },
+                    {
+                        "count": "-2",
+                        "name": "blues rock"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "britpop"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "art rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "folk-rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "baroque pop"
+                    },
+                    {
+                        "count": "0",
+                        "name": "classic rock"
+                    },
+                    {
+                        "count": "5",
+                        "name": "psychedelic pop"
+                    },
+                    {
+                        "count": "9",
+                        "name": "pop rock"
+                    },
+                    {
+                        "count": "3",
+                        "name": "british invasion"
+                    },
+                    {
+                        "count": "0",
+                        "name": "rock and roll"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "rock roll"
+                    },
+                    {
+                        "count": "0",
+                        "name": "english"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "sunshine pop"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "folk pop"
+                    },
+                    {
+                        "count": "0",
+                        "name": "liverpool"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "parlophone"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "united kingdom"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "hair metal"
+                    },
+                    {
+                        "count": "0",
+                        "name": "1"
+                    },
+                    {
+                        "count": "0",
+                        "name": "bbc"
+                    },
+                    {
+                        "count": "0",
+                        "name": "classic pop and rock"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "singer songwriter"
+                    },
+                    {
+                        "count": "0",
+                        "name": "classical pop"
+                    },
+                    {
+                        "count": "0",
+                        "name": "instrumental pop"
+                    },
+                    {
+                        "count": "2",
+                        "name": "merseybeat"
+                    },
+                    {
+                        "count": "0",
+                        "name": "adult alternative pop rock"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "tribute albums"
+                    },
+                    {
+                        "count": "0",
+                        "name": "british psychedelia"
+                    },
+                    {
+                        "count": "0",
+                        "name": "orchestral pop"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "pop-metal"
+                    },
+                    {
+                        "count": "0",
+                        "name": "male vocalists"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "the-beatles"
+                    },
+                    {
+                        "count": "0",
+                        "name": "boys band"
+                    },
+                    {
+                        "count": "0",
+                        "name": "abbey road"
+                    },
+                    {
+                        "count": "0",
+                        "name": "rock & roll"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "pop/rock"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "rhythm & blues"
+                    },
+                    {
+                        "count": "0",
+                        "name": "overrated"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "art pop"
+                    },
+                    {
+                        "count": "0",
+                        "name": "one beatles"
+                    },
+                    {
+                        "count": "0",
+                        "name": "a filk artist"
+                    },
+                    {
+                        "count": "0",
+                        "name": "british rhythm & blues"
+                    },
+                    {
+                        "count": "-1",
+                        "name": "beat music"
+                    },
+                    {
+                        "count": "1",
+                        "name": "get back"
+                    }
+                ]
+            },
+            {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "type": "Group",
+                "ext:score": "66",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The",
+                "country": "GB",
+                "area": {
+                    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                    "type": "Country",
+                    "name": "United Kingdom",
+                    "sort-name": "United Kingdom",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "begin-area": {
+                    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+                    "type": "City",
+                    "name": "London",
+                    "sort-name": "London",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "isni-list": [
+                    "0000000121924040"
+                ],
+                "life-span": {
+                    "begin": "1962",
+                    "ended": "false"
+                },
+                "alias-list": [
+                    {
+                        "locale": "ja",
+                        "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                        "type": "Artist name",
+                        "primary": "primary",
+                        "alias": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba"
+                    },
+                    {
+                        "sort-name": "Rolling Stones",
+                        "alias": "Rolling Stones"
+                    }
+                ],
+                "tag-list": [
+                    {
+                        "count": "16",
+                        "name": "rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "blues"
+                    },
+                    {
+                        "count": "5",
+                        "name": "british"
+                    },
+                    {
+                        "count": "0",
+                        "name": "uk"
+                    },
+                    {
+                        "count": "0",
+                        "name": "reggae"
+                    },
+                    {
+                        "count": "1",
+                        "name": "hard rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "britannique"
+                    },
+                    {
+                        "count": "0",
+                        "name": "country"
+                    },
+                    {
+                        "count": "0",
+                        "name": "rnb"
+                    },
+                    {
+                        "count": "2",
+                        "name": "psychedelic rock"
+                    },
+                    {
+                        "count": "8",
+                        "name": "blues rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "classic rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "psychedelic pop"
+                    },
+                    {
+                        "count": "0",
+                        "name": "pop rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "rock and roll"
+                    },
+                    {
+                        "count": "0",
+                        "name": "english"
+                    },
+                    {
+                        "count": "0",
+                        "name": "live"
+                    },
+                    {
+                        "count": "0",
+                        "name": "greatest hits"
+                    },
+                    {
+                        "count": "0",
+                        "name": "classic pop and rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "the-rolling-stones"
+                    },
+                    {
+                        "count": "1",
+                        "name": "mick jagger"
+                    },
+                    {
+                        "count": "2",
+                        "name": "rock & roll"
+                    },
+                    {
+                        "count": "1",
+                        "name": "dance-rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "rhythm & blues"
+                    },
+                    {
+                        "count": "0",
+                        "name": "essentials"
+                    },
+                    {
+                        "count": "2",
+                        "name": "british rhythm & blues"
+                    },
+                    {
+                        "count": "0",
+                        "name": "some girls"
+                    },
+                    {
+                        "count": "0",
+                        "name": "strictly stereo 1964 - 1969"
+                    }
+                ]
+            },
+            {
+                "id": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                "type": "Group",
+                "ext:score": "66",
+                "name": "Pearl Jam",
+                "sort-name": "Pearl Jam",
+                "country": "US",
+                "area": {
+                    "id": "489ce91b-6658-3307-9877-795b68554c98",
+                    "type": "Country",
+                    "name": "United States",
+                    "sort-name": "United States",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "begin-area": {
+                    "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+                    "type": "City",
+                    "name": "Seattle",
+                    "sort-name": "Seattle",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "isni-list": [
+                    "0000000123426109"
+                ],
+                "life-span": {
+                    "begin": "1990",
+                    "ended": "false"
+                },
+                "alias-list": [
+                    {
+                        "sort-name": "Mookie Blaylock",
+                        "alias": "Mookie Blaylock"
+                    }
+                ],
+                "tag-list": [
+                    {
+                        "count": "3",
+                        "name": "rock"
+                    },
+                    {
+                        "count": "4",
+                        "name": "alternative rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "american"
+                    },
+                    {
+                        "count": "1",
+                        "name": "seattle"
+                    },
+                    {
+                        "count": "16",
+                        "name": "grunge"
+                    },
+                    {
+                        "count": "1",
+                        "name": "hard rock"
+                    },
+                    {
+                        "count": "2",
+                        "name": "usa"
+                    },
+                    {
+                        "count": "1",
+                        "name": "acoustic rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "pop rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "rock and indie"
+                    },
+                    {
+                        "count": "0",
+                        "name": "immortality"
+                    },
+                    {
+                        "count": "0",
+                        "name": "twenty"
+                    },
+                    {
+                        "count": "1",
+                        "name": "christmas singles"
+                    }
+                ]
+            },
+            {
+                "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+                "type": "Group",
+                "ext:score": "66",
+                "name": "U2",
+                "sort-name": "U2",
+                "country": "IE",
+                "area": {
+                    "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                    "type": "Country",
+                    "name": "Ireland",
+                    "sort-name": "Ireland",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "begin-area": {
+                    "id": "462e7952-4fa9-43cd-bc24-2c5c9cd5dd47",
+                    "type": "City",
+                    "name": "Dublin",
+                    "sort-name": "Dublin",
+                    "life-span": {
+                        "ended": "false"
+                    }
+                },
+                "disambiguation": "Irish rock band",
+                "isni-list": [
+                    "0000000121505903"
+                ],
+                "life-span": {
+                    "begin": "1976",
+                    "ended": "false"
+                },
+                "alias-list": [
+                    {
+                        "sort-name": "U2 Kiwi",
+                        "alias": "U2 Kiwi"
+                    },
+                    {
+                        "sort-name": "U2 - Until The",
+                        "alias": "U2 - Until The"
+                    }
+                ],
+                "tag-list": [
+                    {
+                        "count": "6",
+                        "name": "rock"
+                    },
+                    {
+                        "count": "2",
+                        "name": "electronic"
+                    },
+                    {
+                        "count": "5",
+                        "name": "alternative rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "irish"
+                    },
+                    {
+                        "count": "2",
+                        "name": "post-punk"
+                    },
+                    {
+                        "count": "0",
+                        "name": "band"
+                    },
+                    {
+                        "count": "1",
+                        "name": "indie rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "irlande"
+                    },
+                    {
+                        "count": "1",
+                        "name": "ireland"
+                    },
+                    {
+                        "count": "0",
+                        "name": "irlandais"
+                    },
+                    {
+                        "count": "3",
+                        "name": "pop rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "alternative dance"
+                    },
+                    {
+                        "count": "0",
+                        "name": "1980"
+                    },
+                    {
+                        "count": "0",
+                        "name": "classic pop and rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "\u00e9ire"
+                    },
+                    {
+                        "count": "1",
+                        "name": "grammy winner"
+                    },
+                    {
+                        "count": "0",
+                        "name": "pop/rock"
+                    },
+                    {
+                        "count": "1",
+                        "name": "dance-rock"
+                    },
+                    {
+                        "count": "0",
+                        "name": "clean up"
+                    },
+                    {
+                        "count": "0",
+                        "name": "aternative dance"
+                    }
+                ]
+            }
+        ],
+        "artist-count": 444933
+    },
+    "release_groups_for_group": {
+        "release-group-list": [
+            {
+                "id": "8911fe6a-021b-3e57-8d06-75ac33922869",
+                "type": "Album",
+                "title": "Captain Morgan\u2019s Revenge",
+                "first-release-date": "2008-01-25",
+                "primary-type": "Album"
+            },
+            {
+                "id": "7a33aae8-ce42-3444-b97b-b78c7ebd934a",
+                "type": "Album",
+                "title": "Black Sails at Midnight",
+                "first-release-date": "2009-04",
+                "primary-type": "Album"
+            },
+            {
+                "id": "6128eba3-e98c-4350-bebb-5eeb2dc61bb0",
+                "type": "Album",
+                "title": "Back Through Time",
+                "first-release-date": "2011-06-03",
+                "primary-type": "Album"
+            },
+            {
+                "id": "5a2dee88-b30b-4e8e-83db-72290c49ba61",
+                "type": "Album",
+                "title": "Sunset on the Golden Age",
+                "first-release-date": "2014-08-01",
+                "primary-type": "Album"
+            },
+            {
+                "id": "0fee5899-19e2-4749-bf15-fcb849ba32ea",
+                "type": "Album",
+                "title": "No Grave but the Sea",
+                "first-release-date": "2017-05-26",
+                "primary-type": "Album"
+            },
+            {
+                "id": "54dfa7cb-ede2-48ca-a2f0-aef5d331c3aa",
+                "type": "Album",
+                "title": "Curse of the Crystal Coconut",
+                "first-release-date": "2020-05-29",
+                "primary-type": "Album"
+            },
+            {
+                "id": "d46c31ca-ff86-3736-a520-ace140fc722a",
+                "type": "Compilation",
+                "title": "Black Sails Over Europe",
+                "first-release-date": "2009-03-27",
+                "primary-type": "Album",
+                "secondary-type-list": [
+                    "Compilation"
+                ]
+            },
+            {
+                "id": "673ccac6-b791-48a9-bed6-c507567e31c7",
+                "type": "Compilation",
+                "title": "Captain Morgan's Revenge / Leviathan",
+                "first-release-date": "2009",
+                "primary-type": "Album",
+                "secondary-type-list": [
+                    "Compilation"
+                ]
+            },
+            {
+                "id": "36273352-e88a-4cec-94d8-78ad302ebb72",
+                "type": "Live",
+                "title": "Live at the End of the World",
+                "first-release-date": "2013-11-15",
+                "primary-type": "Album",
+                "secondary-type-list": [
+                    "Live"
+                ]
+            },
+            {
+                "id": "691ebd3e-a791-421e-a713-43dde5367a86",
+                "type": "Live",
+                "title": "Live in Tilburg",
+                "first-release-date": "2021-05-28",
+                "primary-type": "Album",
+                "secondary-type-list": [
+                    "Live"
+                ]
+            },
+            {
+                "id": "e2595b29-8ba7-39e2-9e89-3a27faf5f1c9",
+                "type": "EP",
+                "title": "Leviathan",
+                "first-release-date": "2008",
+                "primary-type": "EP"
+            },
+            {
+                "id": "f8051e97-9305-46cc-bcc2-e194b61174e8",
+                "type": "EP",
+                "title": "The Treasure Chest EP",
+                "first-release-date": "2020-04-30",
+                "primary-type": "EP"
+            }
+        ],
+        "release-group-count": 12
+    }
+}
