@@ -1,8 +1,7 @@
 from datetime import datetime
 
+from disckeep.web import db
 from sqlalchemy.ext.declarative import DeclarativeMeta
-
-from web import db
 
 BaseModel: DeclarativeMeta = db.Model
 

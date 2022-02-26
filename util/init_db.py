@@ -9,8 +9,8 @@ import sys
 
 sys.path.append(os.path.join(sys.path[0], ".."))
 
-from web import db  # noqa: E402
-from web.models import Group, ReleaseGroup, ReleaseGroupType  # noqa: E402
+from disckeep.web import db  # noqa: E402
+from disckeep.web.models import Group, ReleaseGroup, ReleaseGroupType  # noqa: E402
 
 db.drop_all()
 db.create_all()

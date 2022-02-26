@@ -1,6 +1,5 @@
+from disckeep.web import app, keep, musicbrainz
 from flask import jsonify, request
-
-from web import app, keep, musicbrainz
 
 
 @app.route("/")

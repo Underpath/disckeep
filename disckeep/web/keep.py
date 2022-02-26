@@ -1,7 +1,7 @@
 from datetime import datetime
 
-from web import db, musicbrainz
-from web.models import Group, ReleaseGroup, ReleaseGroupType
+from disckeep.web import db, musicbrainz
+from disckeep.web.models import Group, ReleaseGroup, ReleaseGroupType
 
 # TODO: Move to `const.py`
 PRIMARY = "primary"
