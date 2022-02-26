@@ -21,13 +21,14 @@ class ReleaseGroup(BaseModel):
     id = db.Column(db.String(length=36), primary_key=True)
     name = db.Column(db.String(64), index=True)
     release_type_primary = db.Column(db.String(64))
-    release_types_secondary = db.Column(db.String(64))  # This needs to be pickled
+    # TODO: Move this to its own table since a release group can have multiplesecondary types.
+    release_types_secondary = db.Column(db.String(64))
     release_date = db.Column(db.DateTime())
     group_id = db.Column(db.String(length=36), db.ForeignKey("group.id"))
     # 0 = Not listened
     # 1 = Want to listen
     # 2 = Don't want to listen
-    # 3 = Want to listen
+    # 3 = Already listened
     listen_status = db.Column(db.Integer, default=0)
     # 0 = Neutral
     # 1 = Interested

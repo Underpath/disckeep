@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+Utility to initialise the DB.
+"""
+
 import os
 import sys
 
